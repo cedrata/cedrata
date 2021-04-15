@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cedrata as you prefer
+- 👋 Hi, I’m @cedrata
 - 👀 I’m interested in music, audio and music processing, i even enjoy a little web dev, and other things!
 - 🌱 I’m currently learning python3 and cpp at an advanced level. At the moment i am at my 3rd CS year at UniFe
 - 💞️ I’m looking to collaborate on ...
