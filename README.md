@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @cedrata
-- 👀 I’m interested in music, audio and music processing, i even enjoy a little web dev, and other things!
-- 🌱 I’m currently learning python3 and cpp at an advanced level. Currently attennding my 3rd CS year at UniFe
-- 📫 How to reach me greggius9891@gmail.com (personal email) luca01.greggio@edu.unife.it (UniFe email)
+### Hi there 👋, my name is Luca
 
-<!---
-greggius9891/greggius9891 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am young graduate in CS from UniFe currently based in Turin Italy working for Reply and learning realtime audio developement in my free time.
+
+- 🌱 I’m currently learning JUCE, Angular, FastAPI 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cedrata)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/lucacedrata.cpp/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12228784)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/cedrata)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/user-19791280)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=cedrata)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cedrata)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/cedrata)  
