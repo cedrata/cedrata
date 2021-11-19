@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CedrataDSP my own VST audio plugins**
 
-- 🌱 I’m currently learning **I’m currently learning JUCE, Angular, FastAPI**
+- 🌱 I’m currently learning **I’m currently learning JUCE, C# (.NET and WPF), FastAPI**
 
 - 📫 How to reach me **luca.greggio@protonmail.com**
 
