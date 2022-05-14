@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Luca</h1>
-<h3 align="center">I am young graduate in CS from UniFe currently based in Turin Italy working for EOS Reply and learning realtime audio developement in my free time.</h3>
+<h3 align="center">I am young graduate in CS from UniFe currently based in Turin Italy working for Sense Reply and learning realtime audio developement in my free time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cedrata&label=Profile%20views&color=0e75b6&style=flat" alt="cedrata" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **CedrataDSP my own VST audio plugins**
 
-- 🌱 I’m currently learning **I’m currently learning JUCE, C# (.NET and WPF), FastAPI**
+- 🌱 I’m currently learning **I’m currently learning JUCE and FastAPI**
 
 - 📫 How to reach me **luca.greggio@protonmail.com**
 
