@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a young passionate software developer with particular intrest in audio DSP development in C++ and whatever inspires me.<br><br>My latest project is a simple application dockerization template called 'composer-template' if you want to check it out!</p>
+<p align="left">I'm a young passionate software developer with particular intrest in audio DSP development in C++ and whatever inspires me.<br><br>My latest project is a simple application dockerization, you can find it <a href="https://github.com/cedrata/composer-template">here</a>!</p>
 
 ###
 
