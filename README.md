@@ -117,15 +117,13 @@
 <div align="left">
   <a href="https://www.instagram.com/lucacedrata.cpp/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
   <a href="https://www.linkedin.com/in/luca-greggio-29386b221"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
-  <!--<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>-->
   <a href="https://stackoverflow.com/users/12228784/cedrata"><img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"/></a>
 </div>
 
 ###
 
-<br clear="both">
+![snake gif](https://github.com/cedrata/cedrata/blob/output/snake.svg)
 
-<img href="https://raw.githubusercontent.com/cedrata/cedrata/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
