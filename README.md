@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I'm a young passionate software developer with particular intrest in audio DSP development in C++ and whatever inspires me.<br><br>My latest project is a simple application dockerization, you can find it <a href="https://github.com/cedrata/composer-template">here</a>!</p>
+<p align="left">I'm a young passionate software developer with particular intrest in audio DSP development in C++ and whatever inspires me.<br><br>My latest project is a simple delay line audio plug-in, you can find it <a href="https://github.com/cedrata/still-late">here</a>! Working on distribution and some other features, stay tuned!
+
+With a close frinend of mine I'm also working on some templates for all kinds of projects, updates soon :)</p>
 
 ###
 
